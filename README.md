@@ -10,7 +10,7 @@ If you're not comfortable working with an Excel spreadsheet and aren't intereste
 Although I've tried to make this spreadsheet pretty robust (shouldn't be able to get wrong answers without intentionally disabling the worksheet protection feature) and easy to tailor to your needs, I make no guarantees about the accuracy of its calcuations, its reliability, or any other concern. I use it and find it helpful so I've shared it with the public for you to do with as you please.
 
 ## How do I use it?
-Download the [`Financial Plan.xlsx`](./Financial Plan.xlsx) file and open it using Microsoft Excel.
+Download the [`financial-plan.xlsx`](./financial-plan.xlsx) file and open it using Microsoft Excel.
 (It does not contain any VBA scripting so might work in other spreadsheet software, but I have not tested this.)
 Read the instructions in the blue text boxes and try it out. If you get stuck feel free to post a question in the ["Issues" section of the Github repository](https://github.com/jacobq/budget-spreadsheet/issues).
 
