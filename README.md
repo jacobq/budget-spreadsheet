@@ -6,7 +6,7 @@ When my wife and I took Dave Ramsey's ["Financial Peace University" course](http
 I think it is a good compromise between a full-blown accounting system (I had been using [GnuCash](http://www.gnucash.org/) for years)
 and pencil and paper (if you do this by hand, props to you for your patience and organization!).
 DISCLAIMER: Although it works great for my purposes, I'm an engineer and enjoy numbers, spreadsheets, formulas, source code, etc.
-If you're not comfortable working with an Excel spreadsheet and aren't interested in learning that, I recommend using a budgeting app like (EveryDollar)(https://www.everydollar.com/) instead. They're designed to be hard / impossible to mess up and usually include free technical support.
+If you're not comfortable working with an Excel spreadsheet and aren't interested in learning that, I recommend using a budgeting app like [EveryDollar](https://www.everydollar.com/) instead. They're designed to be hard / impossible to mess up and usually include free technical support.
 Although I've tried to make this spreadsheet pretty robust (shouldn't be able to get wrong answers without intentionally disabling the worksheet protection feature) and easy to tailor to your needs, I make no guarantees about the accuracy of its calcuations, its reliability, or any other concern. I use it and find it helpful so I've shared it with the public for you to do with as you please.
 
 ## How do I use it?
